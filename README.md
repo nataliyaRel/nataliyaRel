@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nataliyaRel
-Working on resource planning plugin for Jira.
+Working on the resource planning plugin for Jira.
 
 <!---
 nataliyaRel/nataliyaRel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
